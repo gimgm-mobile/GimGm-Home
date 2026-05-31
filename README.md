@@ -25,5 +25,5 @@ Wir setzen auf moderne, skalierbare und sichere Technologien, um eine nahtlose V
 
 Du möchtest an GimGm-Home oder GimGm-Mobile mitarbeiten? Wir freuen uns über Feedback, Bugreports und Pull Requests!
 
-* 🌐 **Website:** [Link zu eurer echten Website]
+* 🌐 **Website:** https://gimgm-mobile.github.io/GimGm-Home/
 * 📧 **Kontakt:** frauendorflennox@outlook.de
